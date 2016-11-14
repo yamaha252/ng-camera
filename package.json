@@ -18,6 +18,6 @@
   "main": "ng-camera.js",
   "devDependencies": {},
   "dependencies": {
-    "webcamjs": "^1.0.16"
+    "webcamjs": "git+https://github.com/yamaha252/webcamjs.git"
   }
 }
