@@ -7,16 +7,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bcabanes/ng-camera.git"
+    "url": "https://github.com/yamaha252/ng-camera.git"
   },
   "author": "bcabanes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bcabanes/ng-camera/issues"
+    "url": "https://github.com/yamaha252/ng-camera/issues"
   },
-  "homepage": "https://github.com/bcabanes/ng-camera",
-  "devDependencies": {
-    "connect": "^3.3.4",
-    "serve-static": "^1.8.0"
+  "homepage": "https://github.com/yamaha252/ng-camera",
+  "main": "ng-camera.js",
+  "devDependencies": {},
+  "dependencies": {
+    "webcamjs": "^1.0.16"
   }
 }

@@ -2,6 +2,8 @@
 (function(angular) {
     'use strict';
 
+    angular.module('camera', []);
+
     angular
         .module('camera')
         .directive('ngCamera', directive);
